@@ -22,6 +22,8 @@ You should address the following:
 
 You can use the cloud provider of your choice.
 
+You can use: https://app.diagrams.net/ or a diagramming tool of your choice
+
 ### Purpose
 
 With this excercise we are hoping to assess your understanding of web architectures and patterns
